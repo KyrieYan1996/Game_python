@@ -5,8 +5,6 @@ Created on Sun Feb 24 17:33:07 2019
 @author: Keli Yan
 """
 
-#Refercene: https://www.raywenderlich.com/2795-beginning-game-programming-for-teens-with-python
-
 import pygame as pg
 from pygame.locals import *
 import math
