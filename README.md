@@ -6,7 +6,7 @@ This repo is about some mini-games implemented in
 * Date:
 
         2019-2-25
- 
-* Reference:
-    
-    >https://www.raywenderlich.com/2795-beginning-game-programming-for-teens-with-python
+* Introduction:
+        
+        In this project,you will create a simple game called Angry Bunnies, where the hero, the bunny, has to defend a castle against an attacking hords of badgers.
+
